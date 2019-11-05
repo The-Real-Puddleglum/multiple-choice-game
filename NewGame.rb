@@ -1,3 +1,4 @@
+# I think you can just copy-paste the code into the Visual Studio Code editor. I think that's the way we do it...
 puts "Welcome to the dungeon! If you suceed, you have a chance to become king! If not... Well, nothing you can do about it now! Good Luck!"
 
 puts "You are in a room with two doors. Which do you go through, '1' or '2'?"
