@@ -1,4 +1,1 @@
-# multiple-choice-game
-Ruby code
-# This is a multiple choice game that you can play.
-# It will be expanded upon in the future, as time warrants.
+# This is my multiple choice game. I am not quite done with adding all the options, so more options will appear as necessary and as time warrants.
